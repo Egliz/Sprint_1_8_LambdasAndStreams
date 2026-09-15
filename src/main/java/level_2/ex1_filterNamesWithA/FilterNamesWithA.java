@@ -8,7 +8,6 @@ public class FilterNamesWithA {
         List<String> names = List.of("Ana", "Ada", "ale", "alba", "Juan", "Alicia");
 
         System.out.println(filterWithA(names));
-
     }
 
     public static List<String> filterWithA(List<String> names){

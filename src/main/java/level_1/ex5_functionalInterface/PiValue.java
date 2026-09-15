@@ -1,4 +1,4 @@
-package Level_1.ex5_functionalInterface;
+package level_1.ex5_functionalInterface;
 
 @FunctionalInterface
 public interface PiValue {

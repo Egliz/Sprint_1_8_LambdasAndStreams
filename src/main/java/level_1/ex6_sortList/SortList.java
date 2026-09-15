@@ -1,4 +1,4 @@
-package Level_1.ex6_sortList;
+package level_1.ex6_sortList;
 
 import java.util.ArrayList;
 import java.util.List;

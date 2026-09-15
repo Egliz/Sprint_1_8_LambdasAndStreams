@@ -1,4 +1,4 @@
-package Level_1.ex2_filterStringLength;
+package level_1.ex2_filterStringLength;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -13,7 +13,6 @@ public class FilterStringLength {
     public static List<String> filterStrByLength(List<String> names) {
         return names.stream()
                 .filter(s -> s.contains("o") && s.length() > 5)
-                .collect(Collectors.toList()
-                );
+                .collect(Collectors.toList());
     }
 }

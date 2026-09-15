@@ -1,4 +1,4 @@
-package Level_1.ex8_reverseString;
+package level_1.ex8_reverseString;
 
 public class Main {
     public static void main(String[] args) {

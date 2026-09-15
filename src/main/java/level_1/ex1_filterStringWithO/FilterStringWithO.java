@@ -1,4 +1,4 @@
-package Level_1.ex1_filterStringWithO;
+package level_1.ex1_filterStringWithO;
 
 import java.util.List;
 import java.util.stream.Collectors;

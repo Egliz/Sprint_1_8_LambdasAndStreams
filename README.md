@@ -11,7 +11,7 @@ estos ejercicios estan centrados en el uso de expresiones lambda, interfaces fun
 
 * Java 21
 * IntelliJ IDEA
-* Java Standard Library
+* GitHub
 
 ## Instalación y Ejecución:
 * Clonar el repositorio.

@@ -12,7 +12,7 @@ public class FilterStringLength {
     }
     public static List<String> filterStrByLength(List<String> names) {
         return names.stream()
-                .filter(s -> s.contains("o") && s.length() > 5)
+                .filter(s -> s.toLowerCase().contains("o") && s.length() > 5)
                 .collect(Collectors.toList());
     }
 }

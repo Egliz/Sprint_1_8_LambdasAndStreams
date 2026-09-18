@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 
 public class FilterNamesWithA {
     public static void main(String[] args) {
-        List<String> names = List.of("Ana", "Ada", "ale", "alba", "Juan", "Alicia");
+        List<String> names = List.of("Ana", "Ada", "Pau","ale", "alba", "Juan", "Alicia");
 
         System.out.println(filterWithA(names));
     }
